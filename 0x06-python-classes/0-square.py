@@ -2,7 +2,6 @@
 """Creating an empty Class"""
 
 
-
 class Square:
     """pass to executes empty Class"""
     pass
